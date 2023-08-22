@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*yRhQ28Nd53cTSCR6)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*yRhQ28Nd53cTSCR6)
 <h1 align="center">Hi 👋, I'm Efe Gündoğdu</h1>
 <h3 align="center">A passionate web3 developer from turkey</h3>
 
